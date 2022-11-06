@@ -3,5 +3,3 @@ apple
 big apple
 pineapple
 kiwi
-cucumber
-orange
